@@ -1,0 +1,2 @@
+# bibliotek_19dec2024
+connect_liquibase
